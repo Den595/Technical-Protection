@@ -69,5 +69,6 @@
 
 ## Скріншот роботи програми
 ![Скріншот](screenshot.png)
+![Скріншот](screenshot_processing.png)
 "# Technical-Protection" 
 "# Technical-Protection" 
